@@ -22,9 +22,9 @@
   --background-color: #0A0A0A;           /* Fondo oscuro */
   --default-color: #FFFFFF;              /* Texto claro */
   --heading-color: #FFFFFF;              /* Títulos en blanco */
-  --accent-color: #2A9D8F;               /* Verde profesional */
+  --accent-color: #B22222;               /* Rojo del logo */
   --surface-color: #1E1E1E;              /* Fondo oscuro para tarjetas */
-  --contrast-color: #2A9D8F;             /* Color de contraste (verde) */
+  --contrast-color: #B22222;             /* Rojo para contraste */
 }
 
 /* Nav Menu Colors */
@@ -144,8 +144,8 @@ h6 {
 --------------------------------------------------------------*/
 .header {
   --background-color: rgba(0, 0, 0, 0.8);
-  --heading-color: #ffffff;
-  --contrast-color: #ffffff;
+  --heading-color: #FFFFFF;
+  --contrast-color: #B22222; /* Rojo del logo */
   color: var(--default-color);
   background-color: var(--background-color);
   padding: 10px 0;
